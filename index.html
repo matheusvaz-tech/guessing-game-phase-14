@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Guessing Game</title>
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&family=Montserrat:wght@600&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <main>
+      <div class="title-subtitle">
+        <h1 class="guessing-game">Jogo da adivinhação</h1>
+        <p>Adivinhe o número entre 0 e 10</p>
+      </div>
+      <form class="input-button">
+        <input id="inputNumber" type="text" />
+        <button id="btnTry">Tentar</button>
+      </form>
+    </main>
+    <section class="hide">
+      <div>
+        <h2>Você acertou em <strong>x</strong> tentativas!</h2>
+        <button id="btnReset">Jogar novamente</button>
+      </div>
+    </section>
+
+    <script src="./assets/js/main.js"></script>
+  </body>
+</html>
