@@ -8,7 +8,7 @@ Jogo da adivinhação desenvolvido com HTML, CSS e Javascript (DOM).
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://matheusvaz-dev.github.io/guessing-game-phase-14/">Deploy</a>
+  <a href="https://matheusvaz-dev.github.io/guessing-game-phase-14/" target="_blank">Deploy</a>
 </p>
 
 <br>
