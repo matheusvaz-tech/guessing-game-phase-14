@@ -14,7 +14,7 @@ function handleTryClick(event) {
     screen_1.classList.add("hide");
     screen_2.classList.remove("hide");
 
-    document.querySelector("section h2 strong").innerText = xAttempts;
+    screen_2.querySelector("h2 strong").innerText = xAttempts; // Posso pegar um elemento dentro de outro que já foi pego (e declarado)
   }
 
   inputNumber.value = "";
