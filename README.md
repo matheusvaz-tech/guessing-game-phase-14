@@ -26,4 +26,4 @@ O Jogo da adivinhação é um projeto no qual foi testado os conhecimentos de Do
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/Pe4FDqDUULk0H8OMQtWwhD/Jogo-Adivinha%C3%A7%C3%A3o?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/Pe4FDqDUULk0H8OMQtWwhD/Jogo-Adivinha%C3%A7%C3%A3o?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
